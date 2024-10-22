@@ -1,4 +1,4 @@
-![Exp2(10)](https://github.com/user-attachments/assets/adda6dd1-63d0-4291-b776-acbc1f995049)# EXNO2DS
+# EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -44,3 +44,5 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 # RESULT
 Thus Exploratory Data Analysis is performed on the given data set
+# name
+Laksha M (24002268)
